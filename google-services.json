@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295822778184",
+    "project_id": "mdriva-v1",
+    "storage_bucket": "mdriva-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295822778184:android:7e808f93674333c3c85d7d",
+        "android_client_info": {
+          "package_name": "com.example.mdriva_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeS01r4Gsk5PmGKON7HUBWozbXSLIG8Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
